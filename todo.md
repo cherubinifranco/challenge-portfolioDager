@@ -1,0 +1,10 @@
+[X] => Add work Experience
+[x] => Add Experimental Page
+[X] => Add download file
+[X] => Add projects
+[X] => add Footer
+[X] => add cats
+[X] => add guitars
+[x] => add pickles?
+[X] => Correct href in navBar
+[] => 
